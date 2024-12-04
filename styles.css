@@ -9,7 +9,7 @@
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
     --laranja: #ebe700c4;
-    --azul-degrade: linear-gradient(97.54deg, #5e1137 35.49%, hsl(335, 83%, 89%) 165.37%);
+    --azul-degrade: linear-gradient(97.54deg, #fd3c9cbd 35.49%, hsla(335, 45%, 82%, 0.767) 165.37%);
     --fonte-principal: "Poppins";
     --azul: #ff9dc6;
 }
